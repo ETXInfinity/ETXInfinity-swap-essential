@@ -1,0 +1,27 @@
+{
+  "name": "ETXInfinity",
+  "logoURI": "https://raw.githubusercontent.com/ETXInfinity/ETXInfinity-swap-essential/main/etx-logo.png",
+  "keywords": ["Defi", "etx", "infinity"],
+  "tags": {
+    "defi": {
+      "name": "ETXInfinity token list",
+      "description": "by ETXInfinity"
+    }
+  },
+  "timestamp": "2022-11-13T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 31779,
+      "address": "0xb272eA27545E858dA7DbC3eEEf006D13BB24d1A9",
+      "symbol": "Doge",
+      "name": "Doge",
+      "decimals": 18,
+      "tags": ["Doge"]
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 40,
+    "patch": 0
+  }
+}
