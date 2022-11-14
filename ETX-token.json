@@ -16,7 +16,8 @@
       "symbol": "Doge",
       "name": "Doge",
       "decimals": 18,
-      "tags": ["Doge"]
+      "tags": ["Doge"],
+      "logoURI": "https://raw.githubusercontent.com/ETXInfinity/ETXInfinity-swap-essential/main/dogetoken.png"
     }
   ],
   "version": {
